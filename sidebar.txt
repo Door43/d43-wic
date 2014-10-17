@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wic:home|Door43 (wic)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wic|d43-wic repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wic/archive/master.zip|d43-wic.zip]]
+
+**Recent Changes**
+{{changes>ns = wic}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wic|Ethnologue data]]
+
